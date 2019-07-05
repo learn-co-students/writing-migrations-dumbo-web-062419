@@ -23,3 +23,4 @@ namespace :db do
     drop_db
   end
 end
+
